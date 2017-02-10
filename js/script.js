@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title> BITCOIN PAGE </title>
-		<link rel="stylesheet"    		media="all"		type="text/css" 	href="css/style.css"   />				
+		<title> BITCOIN PAGE </title>						
 	</head>
 	<body>
 		<h1>Explorateur Bitcoin</h1>
